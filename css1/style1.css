@@ -75,7 +75,7 @@ nav ul a {
 
 #s01 {
     height: 100vh;
-    background: url(bgimg2.jpg) no-repeat center/cover;
+    background: url(.bgimg2.jpg) no-repeat center/cover;
 }
 
 #s01 .inner {
