@@ -75,7 +75,7 @@ nav ul a {
 
 #s01 {
     height: 100vh;
-    background: url(bgimg2.jpg) no-repeat center/cover;
+    background: url(../bgimg2.jpg) no-repeat center/cover;
 }
 
 #s01 .inner {
@@ -92,7 +92,7 @@ nav ul a {
 #s02 {
     height: 100vh;
     padding: 200px 0;
-    background: url(bgimg2.jpg) no-repeat center/cover;
+    background: url(../bgimg2.jpg) no-repeat center/cover;
 }
 
 #s02 .t-wrap {
@@ -165,7 +165,7 @@ nav ul a {
 
 #s03 .img-wrap {
     height: 100%;
-    background: url(bgimg3.jpg) no-repeat center/cover;
+    background: url(../bgimg3.jpg) no-repeat center/cover;
 }
 
 #s04 {
